@@ -1,7 +1,7 @@
----
 # Building AI Browser Agents
 
 This repository contains code examples and notebooks designed to accompany the Building AI Browser Agents course by DeepLearning.AI. The course demonstrates how to build autonomous browser-based agents that interact with web pages and take actions.
+
 ---
 
 ## What You’ll Learn
